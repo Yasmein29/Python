@@ -1,0 +1,8 @@
+print('Creating tuple and operations on it:')
+tup = ()
+tup = (1, 2, 3, 4, 5)
+print(tup)
+tup2 = ('apple', 3, 6.7, 'chicken')
+print(tup2)
+tup3 = ('A', 'B', 'C', 'D', 'E')
+print(tup3[4])
